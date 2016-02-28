@@ -1,0 +1,42 @@
+_repo: The-Fighting-Governor-A-Chronicle-of-Frontenac_5146
+contributor:
+  creator:
+    editors:
+    - agent_name: Langton, H. H. (Hugh Hornby)
+      alias: Langton, Hugh Hornby
+      birthdate: 1862
+      deathdate: 1953
+      gutenberg_agent_id: '4517'
+      url: http://www.gutenberg.org/2009/agents/4517
+    - agent_name: Wrong, George McKinnon
+      alias: Wrong, George M. (George McKinnon)
+      birthdate: 1860
+      deathdate: 1948
+      gutenberg_agent_id: '1002'
+      url: http://www.gutenberg.org/2009/agents/1002
+      wikipedia: http://en.wikipedia.org/wiki/George_MacKinnon_Wrong
+creator:
+  author:
+    agent_name: Colby, Charles W. (Charles William)
+    alias: Colby, Charles William
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '1402'
+    url: http://www.gutenberg.org/2009/agents/1402
+description: Text only version. See also PG#30258 with Illustrations.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5146'
+language: en
+publication_note: 'Toronto : [s.n.],  1915'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Chronicles of Canada series: Volume 07'
+subjects:
+- !lcsh 'Frontenac, Louis de Buade, comte de, 1620-1698'
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- !lcc 'F1001'
+title: 'The Fighting Governor : A Chronicle of Frontenac'
+url: http://www.gutenberg.org/ebooks/5146
