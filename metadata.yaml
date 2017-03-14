@@ -1,5 +1,5 @@
 _repo: The-Fighting-Governor-A-Chronicle-of-Frontenac_5146
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editors:
@@ -16,6 +16,9 @@ contributor:
       gutenberg_agent_id: '1002'
       url: http://www.gutenberg.org/2009/agents/1002
       wikipedia: http://en.wikipedia.org/wiki/George_MacKinnon_Wrong
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Colby, Charles W. (Charles William)
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '1402'
     url: http://www.gutenberg.org/2009/agents/1402
 description: Text only version. See also PG#30258 with Illustrations.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5146#The-Fighting-Governor-A-Chronicle-of-Frontenac
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
