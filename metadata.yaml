@@ -1,5 +1,5 @@
 _repo: The-Fighting-Governor-A-Chronicle-of-Frontenac_5146
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editors:
@@ -44,5 +44,6 @@ subjects:
 - !lcsh 'Frontenac, Louis de Buade, comte de, 1620-1698'
 - !lcsh 'Canada -- History -- To 1763 (New France)'
 - !lcc 'F1001'
+- GITenberg
 title: 'The Fighting Governor : A Chronicle of Frontenac'
 url: http://www.gutenberg.org/ebooks/5146
